@@ -1,2 +1,2 @@
-# oshi-manager
+# index.html
 My personal Oshi activity manager
